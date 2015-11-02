@@ -76,6 +76,6 @@ void apply_theme(void)
 	init_pair(1, get_color(lines_color), -1);
 	init_pair(2, get_color(line_numbers_color), -1);
 	init_pair(3, get_color(parsed_pattern_color), -1);
-	init_pair(4, get_color(pattern_color), -1);
+	init_pair(4, get_color(pattern_color), 5);
 	init_pair(5, get_color(files_color), -1);
 }
