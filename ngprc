@@ -16,6 +16,6 @@ extensions = ".c .h .cpp .py .S .pl";
 
 lines_color = "white";
 line_numbers_color = "yellow";
-pattern_color = "cyan";
+pattern_color = "black";
 files_color = "green";
 parsed_pattern_color = "red";
